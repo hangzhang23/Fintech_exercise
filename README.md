@@ -1,6 +1,6 @@
 # Fintech_exercise
 
-- [信用卡违约预测](https://github.com/hangzhang23/Fintech_exercise/blob/main/Credit_default_predict.ipynb)
+- [信用卡违约预测](https://github.com/hangzhang23/Fintech_exercise/blob/main/Credit_default_predict.ipynb)  
 这个练习用来熟悉GridSearchCV的pipeline流程，在使用多模型进行调参时，可以自动化操作用来提升效率。
 - [信用卡欺诈预测](https://github.com/hangzhang23/Fintech_exercise/blob/main/Credit_fraud_predict.ipynb)
 这个练习用来熟悉：
