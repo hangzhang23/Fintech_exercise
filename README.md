@@ -7,4 +7,4 @@
 1)用matplotlib画混淆矩阵  
 2)绘画sklearn中的pr曲线  
 3)LR模型可以用LR().coef_来查看特征的重要性，这一点可以用在特征工程用于特征筛选。
-- [信贷评分卡模型]
+- [信贷评分卡模型](https://github.com/hangzhang23/Fintech_exercise/blob/main/GiveMeCredits.ipynb)
